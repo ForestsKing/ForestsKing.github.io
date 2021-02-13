@@ -156,21 +156,7 @@
             var ctx = this.tree.ctx, heart = this.heart;
             var point = heart.point, color = heart.color, 
                 scale = heart.scale;
-            ctx.save();
-            ctx.strokeStyle = color;
-            ctx.fillStyle = color;
-            ctx.translate(point.x, point.y);
-            ctx.scale(scale, scale);
-            ctx.moveTo(0, 0);
-    	    ctx.lineTo(15, 15);
-    	    ctx.lineTo(60, 15);
-            ctx.stroke();
-
-            ctx.moveTo(0, 0);
-            ctx.scale(0.75, 0.75);
-            ctx.font = "12px 微软雅黑,Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
-            ctx.fillText("click here", 23, 16);
-            ctx.restore();
+    
         },
         clear: function() {
             var ctx = this.tree.ctx, cirle = this.cirle;
