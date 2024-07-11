@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chengsen Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "I'm a PhD student at BUPT, class of 2023, with a primary research interest in time series analysis."
+  avatar           : "images/photo.jpg"
+  bio              : "Feel free to reach out for discussions and collaborations!"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
