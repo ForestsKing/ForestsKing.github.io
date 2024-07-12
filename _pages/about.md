@@ -33,7 +33,7 @@ If you are interested in collaborating on research projects, offering internship
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/D3R.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Drift doesn't matter: dynamic decomposition with diffusion reconstruction for unstable multivariate time series anomaly detection**
