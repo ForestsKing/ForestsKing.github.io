@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD student in the class of 2023 at the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications (BUPT).  
+I'm a PhD student in the class of 2023 at the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications (BUPT). My primary research interest is time series analysis, and I am also involved in research on large language models (LLMs) and multimodality. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations <span id='total_cit'>260000+</span></a> .
 
-My primary research interest is time series analysis, and I am also involved in research on large language models (LLMs) and multimodality. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> .
-
-If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you. You can also find my CV here: [Chengsen Wang]().
+If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you. You can also find my CV here: <a href=''>Chengsen Wang</a>.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
