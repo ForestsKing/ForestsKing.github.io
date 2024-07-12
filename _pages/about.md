@@ -38,9 +38,9 @@ If you are interested in collaborating on research projects, offering internship
 
 **Drift doesn't matter: dynamic decomposition with diffusion reconstruction for unstable multivariate time series anomaly detection**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Chengsen Wang**, Zirui Zhuang, Qi Qi, Jingyu Wang, Xingyu Wang, Haifeng Sun, Jianxin Liao
 
-<a href=''>**[Paper]**</a> <a href=''>[Code]</a>
+<a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/22f5d8e689d2a011cd8ead552ed59052-Paper-Conference.pdf'>**[Paper]**</a>  <a href='https://github.com/ForestsKing/D3R'>**[Code]**</a>
 
 </div>
 </div>
