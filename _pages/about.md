@@ -27,9 +27,9 @@ If you are interested in collaborating on research projects, offering internship
 
 # 📖 Educations
 
-- *2023.09 – Present*, Undergrad Student, Automation, Beijing University of Posts and Telecommunications. 
-- *2022.09 – 2023.06*, MS Student, Computer Science and Technology, Beijing University of Posts and Telecommunications. 
-- *2018.09 – 2022.06*, PhD Student, Computer Science and Technology, Beijing University of Posts and Telecommunications.
+- *2023.09 – Present*, PhD Student, Computer Science and Technology, Beijing University of Posts and Telecommunications.
+- *2022.09 – 2023.06*, MS Student, Computer Science and Technology, Beijing University of Posts and Telecommunications.
+- *2018.09 – 2022.06*, Undergrad Student, Automation, Beijing University of Posts and Telecommunications.
 
 # 📝 Publications 
 
