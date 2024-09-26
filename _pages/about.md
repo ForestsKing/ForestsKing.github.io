@@ -23,8 +23,8 @@ If you are interested in collaborating on research projects, offering internship
 
 # 🔥 News
 
-- *2024.09*: &nbsp;🎉🎉 <a href=''>Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective</a> has been accepted by **NeurIPS 2024**.
-- *2023.09*: &nbsp;🎉🎉 <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/22f5d8e689d2a011cd8ead552ed59052-Paper-Conference.pdf'>Drift doesn’t Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection</a> has been accepted by **NeurIPS 2023**.
+- *2024.09*: &nbsp;🎉🎉🎉 <a href=''>Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective</a> has been accepted by **NeurIPS 2024**.
+- *2023.09*: &nbsp;🎉🎉🎉 <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/22f5d8e689d2a011cd8ead552ed59052-Paper-Conference.pdf'>Drift doesn’t Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection</a> has been accepted by **NeurIPS 2023**.
 
 # 📖 Educations
 
