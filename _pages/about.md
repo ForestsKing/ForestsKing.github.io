@@ -24,7 +24,6 @@ If you are interested in collaborating on research projects, offering internship
 # 🔥 News
 
 - *2024.09*: &nbsp;🎉🎉 <a href=''>Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective</a> has been accepted by **NeurIPS 2024**.
-
 - *2023.09*: &nbsp;🎉🎉 <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/22f5d8e689d2a011cd8ead552ed59052-Paper-Conference.pdf'>Drift doesn’t Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection</a> has been accepted by **NeurIPS 2023**.
 
 # 📖 Educations
@@ -35,14 +34,14 @@ If you are interested in collaborating on research projects, offering internship
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publications/D3R.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publications/GLAFF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Drift doesn’t Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection**
+**Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective**
 
 **Chengsen Wang**, Zirui Zhuang, Qi Qi, Jingyu Wang, Xingyu Wang, Haifeng Sun, Jianxin Liao
 
-<a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/22f5d8e689d2a011cd8ead552ed59052-Paper-Conference.pdf'>**[Paper]**</a>  <a href='https://github.com/ForestsKing/D3R'>**[Code]**</a>
+<a href=''>**[Paper]**</a>  <a href='https://github.com/ForestsKing/GLAFF'>**[Code]**</a>
 
 </div>
 </div>
