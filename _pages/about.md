@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a PhD student in the class of 2023 at the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecommunications (BUPT). My primary research interests focus on time series analysis, along with multimodal and LLM. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations <span id='total_cit'>260000+</span></a> .
 
-If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you. You can also find my CV here: <a href=''>Chengsen Wang</a>.
+If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you. You can also find my CV here: <a href='files/CV_EN.pdf'>EN</a> / <a href='files/CV_ZH.pdf'>ZH</a>.
 
 # 🔥 News
 
