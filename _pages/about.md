@@ -49,6 +49,8 @@ If you are interested in collaborating on research projects, offering internship
 <a href='https://arxiv.org/pdf/0000.00000'>**[Paper]**</a>  <a href='https://github.com/ForestsKing/ChatTime'>**[Code]**</a>
 
 </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publications/GLAFF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
