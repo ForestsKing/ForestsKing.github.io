@@ -21,6 +21,8 @@ I'm a PhD student in the class of 2023 at the State Key Laboratory of Networking
 
 If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you. You can also find my CV here: <a href='files/CV_EN.pdf'>EN</a> / <a href='files/CV_ZH.pdf'>ZH</a>.
 
+🌸 I'm actively seeking a one-year visiting Ph.D. opportunity (2025–2026) under the CSC sponsorship!
+
 # 🔥 News
 
 - *2024.12*: &nbsp;🎉🎉🎉 <a href='https://arxiv.org/pdf/0000.00000'>ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data</a> has been accepted by **AAAI 2025**.
