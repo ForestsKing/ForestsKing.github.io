@@ -37,7 +37,7 @@ If you are interested in collaborating on research projects, offering internship
 
 # 💻 Experiences
 
-- Reviewer for: NeurIPS 2024, ICLR 2025
+- Reviewer for: NeurIPS 2024, ICLR 2025, ICML 2025
 
 # 📝 Publications 
 
