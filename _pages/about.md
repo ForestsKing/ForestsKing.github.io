@@ -21,8 +21,6 @@ I'm a PhD student in the class of 2023 at the State Key Laboratory of Networking
 
 If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you. You can also find my CV here: <a href='files/CV_EN.pdf'>EN</a> / <a href='files/CV_ZH.pdf'>ZH</a>.
 
-🌸 I'm actively seeking a one-year visiting Ph.D. opportunity (2025–2026) under the CSC sponsorship!
-
 # 🔥 News
 
 - *2024.12*: &nbsp;🎉🎉🎉 <a href='https://arxiv.org/pdf/2412.11376'>ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data</a> has been accepted by **AAAI 2025**.
@@ -35,9 +33,18 @@ If you are interested in collaborating on research projects, offering internship
 - *2022.09 – 2023.06*, MS Student, Computer Science and Technology, Beijing University of Posts and Telecommunications.
 - *2018.09 – 2022.06*, Undergrad Student, Automation, Beijing University of Posts and Telecommunications.
 
-# 💻 Experiences
+# 🛵 Experiences
 
-- Reviewer for: NeurIPS 2024, ICLR 2025, ICML 2025
+- *2025.02 – Present*, Research Intern, Noah's Ark Lab, Huawei Technologies.
+
+# 🌱 Services
+
+- Conferences
+  - Reviewer, The Forty-Second International Conference on Machine Learning (ICML 2025, h5=268)
+  - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025, h5=304)
+  - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024, h5=337)
+- Journals
+  - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.4)
 
 # 📝 Publications 
 
