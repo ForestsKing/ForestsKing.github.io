@@ -48,7 +48,7 @@ If you are interested in collaborating on research projects, offering internship
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (oral)</div><img src='images/publications/ChatTime.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 [oral]</div><img src='images/publications/ChatTime.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data**
