@@ -44,6 +44,7 @@ If you are interested in collaborating on research projects, offering internship
   - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025, h5=304)
   - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024, h5=337)
 - Journals
+  - Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE, IF=8.9)
   - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS, IF=10.4)
 
 # 📝 Publications 
