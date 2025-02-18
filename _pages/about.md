@@ -40,6 +40,7 @@ If you are interested in collaborating on research projects, offering internship
 # 🌱 Services
 
 - Conferences
+  - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, h5=337)
   - Reviewer, The Forty-Second International Conference on Machine Learning (ICML 2025, h5=268)
   - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025, h5=304)
   - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024, h5=337)
