@@ -35,7 +35,7 @@ If you are interested in collaborating on research projects, offering internship
 
 # 🛵 Experiences
 
-- *2025.02 – Present*, Research Intern, Noah's Ark Lab, Huawei Technologies.
+- *2025.02 – 2025.05*, Research Intern, Noah's Ark Lab, Huawei Technologies.
 
 # 🌱 Services
 
