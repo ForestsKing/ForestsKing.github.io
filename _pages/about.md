@@ -40,7 +40,6 @@ If you are interested in collaborating on research projects, offering internship
 # 🌱 Services
 
 - Conferences
-  - Reviewer, The Thirty-First SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025, h5=213)
   - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, h5=337)
   - Reviewer, The Forty-Second International Conference on Machine Learning (ICML 2025, h5=268)
   - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025, h5=304)
