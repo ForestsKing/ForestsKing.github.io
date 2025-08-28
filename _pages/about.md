@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD student in the class of 2023 at the <a href='https://nirc.bupt.site/'>Network Intelligence Research Center (NIRC)</a> within the <a href='https://www.bupt.edu.cn/'>Beijing University of Posts and Telecommunications (BUPT)</a>, advised by Prof. <a href='https://scholar.google.com/citations?user=2W2h0SwAAAAJ'>Qi Qi</a> and Prof. <a href='https://jericwang.github.io/'>Jingyu Wang</a>. My primary research interests focus on time series analysis and genomic foundation model. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations 100</a>.
+I'm a PhD student in the class of 2023 at the <a href='https://nirc.bupt.site/'>Network Intelligence Research Center (NIRC)</a> within the <a href='https://www.bupt.edu.cn/'>Beijing University of Posts and Telecommunications (BUPT)</a>, advised by Prof. <a href='https://scholar.google.com/citations?user=2W2h0SwAAAAJ'>Qi Qi</a> and Prof. <a href='https://jericwang.github.io/'>Jingyu Wang</a>. My primary research interests focus on time series analysis and genomic foundation model. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations 109</a>.
 
 If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you. You can also find my CV here: <a href='files/CV_EN.pdf'>EN</a> / <a href='files/CV_ZH.pdf'>ZH</a>.
 
