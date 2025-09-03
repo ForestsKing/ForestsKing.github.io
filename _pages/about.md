@@ -40,14 +40,15 @@ If you are interested in collaborating on research projects, offering internship
 # 🌱 Services
 
 - Conferences
-  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026, h5=220)
-  - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, h5=337)
-  - Reviewer, The Forty-Second International Conference on Machine Learning (ICML 2025, h5=268)
-  - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025, h5=304)
-  - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024, h5=337)
+  - Reviewer, The Fourteenth International Conference on Learning Representations (ICLR 2026, h5=362)
+  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026, h5=232)
+  - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, h5=371)
+  - Reviewer, The Forty-Second International Conference on Machine Learning (ICML 2025, h5=272)
+  - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025, h5=362)
+  - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024, h5=371)
 - Journals
-  - Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE, h5=107)
-  - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS, h5=149)
+  - Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE, h5=126)
+  - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS, h5=165)
 
 # 📝 Publications 
 
