@@ -23,6 +23,7 @@ If you are interested in collaborating on research projects, offering internship
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉🎉 <a href='https://dl.acm.org/doi/epdf/10.1145/3759460'>MCAKE: Memory-Augmented Autoencoder with Contrastive Learning for Unsupervised Anomaly Detection</a> has been accepted by **TKDD 2025**.
 - *2024.12*: &nbsp;🎉🎉🎉 <a href='https://arxiv.org/pdf/2412.11376'>ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data</a> has been accepted by **AAAI 2025 \[oral\]**.
 - *2024.09*: &nbsp;🎉🎉🎉 <a href='https://arxiv.org/pdf/2409.18696'>Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective</a> has been accepted by **NeurIPS 2024**.
 - *2023.09*: &nbsp;🎉🎉🎉 <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/22f5d8e689d2a011cd8ead552ed59052-Paper-Conference.pdf'>Drift doesn’t Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection</a> has been accepted by **NeurIPS 2023**.
@@ -40,6 +41,7 @@ If you are interested in collaborating on research projects, offering internship
 # 🌱 Services
 
 - Conferences
+  - Reviewer, The Forty-Third International Conference on Machine Learning (ICML 2026, h5=272)
   - Reviewer, The Fourteenth International Conference on Learning Representations (ICLR 2026, h5=362)
   - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026, h5=232)
   - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, h5=371)
