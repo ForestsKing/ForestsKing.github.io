@@ -41,6 +41,7 @@ If you are interested in collaborating on research projects, offering internship
 # 🌱 Services
 
 - Conferences
+  - Reviewer, The Thirty-Second SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2026, h5=124)
   - Reviewer, The Forty-Third International Conference on Machine Learning (ICML 2026, h5=272)
   - Reviewer, The Fourteenth International Conference on Learning Representations (ICLR 2026, h5=362)
   - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026, h5=232)
