@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD student in the class of 2023 at the <a href='https://nirc.bupt.site/'>Network Intelligence Research Center (NIRC)</a> within the <a href='https://www.bupt.edu.cn/'>Beijing University of Posts and Telecommunications (BUPT)</a>, advised by Prof. <a href='https://scholar.google.com/citations?user=2W2h0SwAAAAJ'>Qi Qi</a> and Prof. <a href='https://jericwang.github.io/'>Jingyu Wang</a>. My primary research interests focus on time series analysis and genomic foundation model. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations 398 / 425</a>.
+I'm a PhD student in the class of 2023 at the <a href='https://nirc.bupt.site/'>Network Intelligence Research Center (NIRC)</a> within the <a href='https://www.bupt.edu.cn/'>Beijing University of Posts and Telecommunications (BUPT)</a>, advised by Prof. <a href='https://scholar.google.com/citations?user=2W2h0SwAAAAJ'>Qi Qi</a> and Prof. <a href='https://jericwang.github.io/'>Jingyu Wang</a>. My primary research interests focus on time series analysis and genomic foundation model. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations 408 / 437</a>.
 
-If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you. You can also find my CV here: <a href='files/CV_EN.pdf'>EN</a> / <a href='files/CV_ZH.pdf'>ZH</a>.
+If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you.
 
 # 🔥 News
 
@@ -41,18 +41,18 @@ If you are interested in collaborating on research projects, offering internship
 # 🌱 Services
 
 - Conferences
-  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2027, h5=232) 
-  - Reviewer, The Thirty-Second SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2027, h5=124)
-  - Reviewer, The Forty-Third International Conference on Machine Learning (ICML 2026, h5=272)
-  - Reviewer, The Fourteenth International Conference on Learning Representations (ICLR 2026, h5=362)
-  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026, h5=232)
-  - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, h5=371)
-  - Reviewer, The Forty-Second International Conference on Machine Learning (ICML 2025, h5=272)
-  - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025, h5=362)
-  - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024, h5=371)
+  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2027) 
+  - Reviewer, The Thirty-Second SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2027)
+  - Reviewer, The Forty-Third International Conference on Machine Learning (ICML 2026)
+  - Reviewer, The Fourteenth International Conference on Learning Representations (ICLR 2026)
+  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)
+  - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+  - Reviewer, The Forty-Second International Conference on Machine Learning (ICML 2025)
+  - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
 - Journals
-  - Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE, h5=126)
-  - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS, h5=165)
+  - Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 # 📝 Publications 
 
