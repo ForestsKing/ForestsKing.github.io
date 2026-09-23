@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -23,6 +23,7 @@ If you are interested in collaborating on research projects, offering internship
 
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉🎉🎉 <a href='https://arxiv.org/abs/2505.10083'>ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Cross-Modal Alignment Dataset</a> has been accepted by **TKDD 2026**.
 - *2025.09*: &nbsp;🎉🎉🎉 <a href='https://dl.acm.org/doi/full/10.1145/3759460'>MCAKE: Memory-Augmented Autoencoder with Contrastive Learning for Unsupervised Anomaly Detection</a> has been accepted by **TKDD 2025**.
 - *2024.12*: &nbsp;🎉🎉🎉 <a href='https://ojs.aaai.org/index.php/AAAI/article/view/33384'>ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data</a> has been accepted by **AAAI 2025 \[oral\]**.
 - *2024.09*: &nbsp;🎉🎉🎉 <a href='https://proceedings.neurips.cc/paper_files/paper/2024/hash/2783192ea2696ee2ceb8746f5eea6681-Abstract-Conference.html'>Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective</a> has been accepted by **NeurIPS 2024**.
@@ -41,7 +42,7 @@ If you are interested in collaborating on research projects, offering internship
 # 🌱 Services
 
 - Conferences
-  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2027) 
+  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2027)
   - Reviewer, The Thirty-Second SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2027)
   - Reviewer, The Forty-Third International Conference on Machine Learning (ICML 2026)
   - Reviewer, The Fourteenth International Conference on Learning Representations (ICLR 2026)
@@ -54,9 +55,21 @@ If you are interested in collaborating on research projects, offering internship
   - Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2026</div><img src='images/publications/MCAKE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2026</div><img src='images/publications/ChronoSteer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Cross-Modal Alignment Dataset**
+
+**Chengsen Wang**, Qi Qi, Zhongwen Rao, Lujia Pan, Jingyu Wang
+
+<a href='https://arxiv.org/abs/2505.10083'>**[Paper]**</a>  <a href='https://github.com/ForestsKing/ChronoSteer'>**[Code]**</a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD 2025</div><img src='images/publications/MCAKE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MCAKE: Memory-Augmented Autoencoder with Contrastive Learning for Unsupervised Anomaly Detection**
