@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a PhD student in the class of 2023 at the <a href='https://nirc.bupt.site/'>Network Intelligence Research Center (NIRC)</a> within the <a href='https://www.bupt.edu.cn/'>Beijing University of Posts and Telecommunications (BUPT)</a>, advised by Prof. <a href='https://scholar.google.com/citations?user=2W2h0SwAAAAJ'>Qi Qi</a> and Prof. <a href='https://jericwang.github.io/'>Jingyu Wang</a>. My primary research interests focus on time series analysis and genomic foundation model. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations 487 / 513</a>.
+I'm a PhD student in the class of 2023 at the <a href='https://nirc.bupt.site/'>Network Intelligence Research Center (NIRC)</a> within the <a href='https://www.bupt.edu.cn/'>Beijing University of Posts and Telecommunications (BUPT)</a>, advised by Prof. <a href='https://scholar.google.com/citations?user=2W2h0SwAAAAJ'>Qi Qi</a> and Prof. <a href='https://jericwang.github.io/'>Jingyu Wang</a>. My primary research interests focus on **time series analysis** and **genomic foundation model**. I have published several relevant papers in top conferences with total <a href='https://scholar.google.com/citations?user=6KQpKtgAAAAJ'>google scholar citations **487 / 513**</a>.
 
 If you are interested in collaborating on research projects, offering internship opportunities, or exchange programs, I would be thrilled to connect with you.
 
@@ -31,34 +31,34 @@ If you are interested in collaborating on research projects, offering internship
 
 # 📖 Educations
 
-- *2023.09 – Present*, PhD Student, Computer Science and Technology, Beijing University of Posts and Telecommunications.
-- *2022.09 – 2023.06*, MS Student, Computer Science and Technology, Beijing University of Posts and Telecommunications.
-- *2018.09 – 2022.06*, Undergrad Student, Automation, Beijing University of Posts and Telecommunications.
+- *2023.09 – Present*, PhD Student, Computer Science and Technology, **Beijing University of Posts and Telecommunications**.
+- *2022.09 – 2023.06*, MS Student, Computer Science and Technology, **Beijing University of Posts and Telecommunications**.
+- *2018.09 – 2022.06*, Undergrad Student, Automation, **Beijing University of Posts and Telecommunications**.
 
 # 🏆 Awards
 
-- *2026*, National Scholarship for Doctoral Students, Ministry of Education of China.
+- *2026*, **National Scholarship for Doctoral Students**, Ministry of Education of China.
 
 # 🛵 Experiences
 
-- *2026.05 – 2026.09*, Intern, Data, ByteDance Ltd.
-- *2025.02 – 2025.05*, Intern, Noah's Ark Lab, Huawei Technologies Co., Ltd.
+- *2026.05 – 2026.09*, Intern, Data, **ByteDance Ltd.**
+- *2025.02 – 2025.05*, Intern, Noah's Ark Lab, **Huawei Technologies Co., Ltd.**
 
 # 🌱 Services
 
 - Conferences
-  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2027)
-  - Reviewer, The Thirty-Second SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2027)
-  - Reviewer, The Forty-Third International Conference on Machine Learning (ICML 2026)
-  - Reviewer, The Fourteenth International Conference on Learning Representations (ICLR 2026)
-  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (AAAI 2026)
-  - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
-  - Reviewer, The Forty-Second International Conference on Machine Learning (ICML 2025)
-  - Reviewer, The Thirteenth International Conference on Learning Representations (ICLR 2025)
-  - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (**AAAI 2027**)
+  - Reviewer, The Thirty-Second SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2027**)
+  - Reviewer, The Forty-Third International Conference on Machine Learning (**ICML 2026**)
+  - Reviewer, The Fourteenth International Conference on Learning Representations (**ICLR 2026**)
+  - Reviewer, The Fortieth AAAI Conference on Artificial Intelligence (**AAAI 2026**)
+  - Reviewer, The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**NeurIPS 2025**)
+  - Reviewer, The Forty-Second International Conference on Machine Learning (**ICML 2025**)
+  - Reviewer, The Thirteenth International Conference on Learning Representations (**ICLR 2025**)
+  - Reviewer, The Thirty-Eighth Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)
 - Journals
-  - Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  - Reviewer, IEEE Transactions on Knowledge and Data Engineering (**TKDE**)
+  - Reviewer, IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)
 
 # 📝 Publications
 
