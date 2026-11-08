@@ -35,9 +35,14 @@ If you are interested in collaborating on research projects, offering internship
 - *2022.09 – 2023.06*, MS Student, Computer Science and Technology, Beijing University of Posts and Telecommunications.
 - *2018.09 – 2022.06*, Undergrad Student, Automation, Beijing University of Posts and Telecommunications.
 
+# 🏆 Awards
+
+- *2026*, National Scholarship for Doctoral Students, Ministry of Education of China.
+
 # 🛵 Experiences
 
-- *2025.02 – 2025.05*, Research Intern, Noah's Ark Lab, Huawei Technologies.
+- *2026.05 – 2026.09*, Intern, Data, ByteDance Ltd.
+- *2025.02 – 2025.05*, Intern, Noah's Ark Lab, Huawei Technologies Co., Ltd.
 
 # 🌱 Services
 
